@@ -30,8 +30,8 @@ Contributions to BoplOS are welcome! If you'd like to contribute to the developm
 
 Join the BoplOS community to connect with other users and stay updated:
 
-- Community Chat: [Link to community chat]
-- Forums: [Link to forums]
+- Community Discord:
+- Forums:
 
 ## Support
 
